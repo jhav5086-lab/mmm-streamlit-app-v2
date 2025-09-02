@@ -29,7 +29,6 @@ from statsmodels.tsa.seasonal import seasonal_decompose
 import plotly.graph_objects as go
 import plotly.express as px
 from plotly.subplots import make_subplots # Import make_subplots
-from IPython.display import display
 
 # Set style for plots (not needed for Plotly)
 # plt.style.use('default')
